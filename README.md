@@ -11,7 +11,7 @@ Point your soap client to `http://localhost:8080/<wsdl-path-and-params>` as the 
 
 ### Side effect
 As a side effect, your soap client will create requests pointing to `http://localhost:8080/<path-of-services>`.
-This project also has a endpoint where it will receive post requests, forward it to your proxy/tunnel address and return the response, so you don't need to chenge your soap client address when running this application.
+This project also has a endpoint where it will receive post requests, forward it to your proxy/tunnel address and return the response, so you don't need to change your soap client address when running this application.
 
 ## Contact
 Feel free to contact me at flavioa.mello@gmail.com
